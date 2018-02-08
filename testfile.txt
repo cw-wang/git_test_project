@@ -7,3 +7,6 @@ Then create 2.0-branch1 and 2.0-branch2.
 Then check out different branches.
 
 NOW, THIS IS 2.0.
+
+This line is added in Aptana.
+ 
